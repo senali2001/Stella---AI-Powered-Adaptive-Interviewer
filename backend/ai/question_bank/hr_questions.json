@@ -1,0 +1,140 @@
+[
+  {
+    "id": "hr_q1",
+    "topic": "Introduction",
+    "difficulty": 1,
+    "question": "Tell me about yourself.",
+    "reference_answer": "Good morning. I’m Navodhya Senali, a third-year Software Engineering undergraduate at NSBM Green University with experience in Java, Spring Boot, React, Next.js, Python, and databases. I also participate in volunteering and organizing activities, which have strengthened my teamwork, communication, and leadership skills. I’m now looking for an opportunity to apply my knowledge in a professional environment and grow as a software engineer.",
+    "expected_concepts": [
+      "educational background",
+      "software development skills",
+      "teamwork",
+      "communication",
+      "career goal"
+    ]
+  },
+  {
+    "id": "hr_q2",
+    "topic": "Motivation",
+    "difficulty": 2,
+    "question": "Why did you choose Software Engineering as your career?",
+    "reference_answer": "I chose Software Engineering because I enjoy solving problems and turning ideas into practical solutions using technology. During my studies, I became especially interested in programming and understanding how real-world software systems are designed and developed. This combination of problem-solving and technology motivated me to pursue software engineering as my career.",
+    "expected_concepts": [
+      "problem solving",
+      "interest in technology",
+      "programming",
+      "career motivation"
+    ]
+  },
+  {
+    "id": "hr_q3",
+    "topic": "Company Motivation",
+    "difficulty": 2,
+    "question": "Why do you want to join our company?",
+    "reference_answer": "I want to join your company because I’m looking for practical experience in a professional software development environment. I’m interested in learning from experienced engineers, contributing to real-world projects, and understanding how software engineering practices are applied in industry. I believe this opportunity would help me develop both my technical and professional skills.",
+    "expected_concepts": [
+      "company interest",
+      "industry exposure",
+      "learning opportunity",
+      "real-world projects",
+      "professional growth"
+    ]
+  },
+  {
+    "id": "hr_q4",
+    "topic": "Strengths",
+    "difficulty": 2,
+    "question": "What are your greatest strengths?",
+    "reference_answer": "One of my main strengths is my willingness to learn, especially when I encounter something unfamiliar. I also consider teamwork and responsibility to be strengths because my university projects and volunteering experiences have taught me to communicate, coordinate tasks, and complete my responsibilities. I believe these qualities help me adapt to new situations and contribute effectively to a team.",
+    "expected_concepts": [
+      "willingness to learn",
+      "teamwork",
+      "responsibility",
+      "adaptability",
+      "communication"
+    ]
+  },
+  {
+    "id": "hr_q5",
+    "topic": "Weaknesses",
+    "difficulty": 2,
+    "question": "What is one weakness you are currently working on?",
+    "reference_answer": "One area I’m currently improving is my confidence when communicating in English, particularly in unfamiliar situations. I’ve been working on this by participating in volunteering activities and communicating with different people more often. I’ve already become more comfortable, and I’m continuing to improve through regular practice.",
+    "expected_concepts": [
+      "self-awareness",
+      "communication improvement",
+      "personal development",
+      "specific improvement action"
+    ]
+  },
+  {
+    "id": "hr_q6",
+    "topic": "Teamwork",
+    "difficulty": 2,
+    "question": "Tell me about a time when you worked successfully as part of a team.",
+    "reference_answer": "Through university projects and volunteering activities, I have worked with teams where each member had different responsibilities and deadlines. I made sure to communicate with team members, complete my assigned tasks, and coordinate with others when our work depended on each other. These experiences taught me that effective teamwork requires clear communication, responsibility, and support between team members.",
+    "expected_concepts": [
+      "teamwork",
+      "communication",
+      "task coordination",
+      "responsibility",
+      "specific example given"
+    ]
+  },
+  {
+    "id": "hr_q7",
+    "topic": "Pressure Management",
+    "difficulty": 2,
+    "question": "How do you handle pressure and tight deadlines?",
+    "reference_answer": "When I’m working under pressure, I first break the work into smaller tasks and prioritize them based on urgency and importance. I focus on completing the highest-priority tasks while keeping track of the deadline and communicating early if I face a problem. This helps me stay organized and avoid becoming overwhelmed.",
+    "expected_concepts": [
+      "time management",
+      "task prioritization",
+      "deadline management",
+      "problem communication",
+      "stress management"
+    ]
+  },
+  {
+    "id": "hr_q8",
+    "topic": "Failure and Learning",
+    "difficulty": 3,
+    "question": "Tell me about a mistake or failure you experienced and what you learned from it.",
+    "reference_answer": "In one of my university projects, I underestimated the time needed to complete a task, which left less time for testing and debugging. I learned that software tasks can take longer than expected because of unexpected technical issues, so I now break work into smaller tasks and leave extra time for testing. This has helped me plan my work more realistically.",
+    "expected_concepts": [
+      "mistake",
+      "self-reflection",
+      "time estimation",
+      "learning from failure",
+      "improvement action"
+    ]
+  },
+  {
+    "id": "hr_q9",
+    "topic": "Career Goals",
+    "difficulty": 2,
+    "question": "Where do you see yourself in five years?",
+    "reference_answer": "In five years, I hope to be a skilled software engineer with strong experience in developing and maintaining real-world software systems. I want to deepen my knowledge in areas such as backend development, cloud technologies, and software architecture while taking on greater responsibilities within a team. I also hope to eventually support and guide junior developers.",
+    "expected_concepts": [
+      "career growth",
+      "software engineering",
+      "technical development",
+      "cloud technologies",
+      "leadership"
+    ]
+  },
+  {
+    "id": "hr_q10",
+    "topic": "Hiring",
+    "difficulty": 3,
+    "question": "Why should we hire you?",
+    "reference_answer": "I believe you should hire me because I have a strong foundation in Software Engineering, a willingness to learn, and experience working in teams through projects and volunteering activities. I may not know everything yet, but I’m willing to ask questions, learn quickly, and take responsibility for my work. I believe I can contribute positively to the team while continuing to develop my technical and professional skills.",
+    "expected_concepts": [
+      "technical foundation",
+      "willingness to learn",
+      "teamwork",
+      "responsibility",
+      "positive attitude"
+    ]
+  }
+]
