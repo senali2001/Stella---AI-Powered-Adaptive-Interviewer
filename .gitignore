@@ -39,3 +39,6 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Dataset audio files
+backend/data/raw/cremad
